@@ -7,3 +7,4 @@ As we’ll see, these summaries are concise because they’re learned from the t
 
 We’ll use the Multilingual Amazon Reviews Corpus to create our bilingual summarizer. This corpus consists of Amazon product reviews in six languages and is typically used to benchmark multilingual classifiers. However, since each review is accompanied by a short title, we can use the titles as the target summaries for our model to learn from! 
 
+![Alt text](https://github.com/Yasser-shrief/Text-Summarization_-TensorFlow-/blob/main/Models.JPG)
